@@ -7,7 +7,7 @@
 #(necesario): Representa que una proposición es necesariamente verdadera en todos los mundos posibles.
 #(posible): Representa que una proposición es verdadera en al menos un mundo posible.
 
-pip install pymodal
+
 
 from pymodal.modal_logic import World, KB
 
